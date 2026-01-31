@@ -1,0 +1,200 @@
+/** @format */
+
+body {
+  margin: 0;
+}
+.gradient-nav {
+  background: linear-gradient(to right, #b24592, #6a3093);
+}
+.hero {
+  background: linear-gradient(to right, #b24592, #6a3093);
+  color: white;
+  padding: 100px 0 0 0;
+  position: relative;
+}
+
+.wave-img {
+  width: 100%;
+  display: block;
+}
+
+.hero h1 {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.hero p {
+  margin-top: 15px;
+  font-size: 15px;
+}
+.services-section {
+  padding: 80px 0;
+  background-color: #ffffff;
+}
+
+.section-title {
+  font-weight: bold;
+}
+
+.underline {
+  width: 80px;
+  height: 4px;
+  background: #6a3093;
+  margin: 10px auto;
+}
+
+.service-icon {
+  width: 80px;
+}
+
+.services-section p {
+  font-size: 14px;
+  color: #555;
+}
+
+.services-section .btn {
+  background: linear-gradient(to right, #b24592, #6a3093);
+  border: none;
+  border-radius: 20px;
+  padding: 8px 25px;
+}
+.why-choose-section {
+  padding: 80px 0;
+  background-color: #f8f9fa;
+}
+
+.blue-title {
+  color: #0d6efd;
+}
+
+.why-list {
+  margin-top: 20px;
+}
+
+.why-list li {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.testimonial-section {
+  padding: 80px 0;
+  background-color: #ffffff;
+}
+
+.testimonial-box {
+  border-left: 4px solid #6a3093;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.testimonial-box p {
+  font-size: 14px;
+  color: #555;
+}
+
+.client-info {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.client-info img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.social-icons img {
+  width: 45px;
+  margin: 0 8px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+  transform: translateY(-5px);
+}
+.social-section {
+  padding: 80px 0;
+  background-color: #f8f9fa;
+}
+
+.footer-wave {
+  width: 100%;
+  display: block;
+  margin-bottom: -6px;
+}
+
+.footer-section {
+  background: linear-gradient(to right, #b24592, #6a3093);
+  color: white;
+  padding-top: 0;
+  position: relative;
+}
+
+.footer-section p {
+  font-size: 14px;
+}
+
+.footer-section hr {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+.footer-logo {
+  width: 120px;
+}
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+.contact-icon {
+  width: 38px;
+  height: 38px;
+  background: linear-gradient(135deg, #b24592, #6a3093);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px; /* square with soft corners */
+  margin-right: 10px;
+}
+.watch-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.play-img {
+  width: 45px; /* screenshot jaisa size */
+  height: 45px;
+}
+
+.watch-text {
+  color: white;
+  font-size: 16px;
+}
+.hero-row > div {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.subscribe-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+
+  background: linear-gradient(135deg, #b24592, #6a3093);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  opacity: 0.9;
+}
