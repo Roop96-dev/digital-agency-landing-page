@@ -6,7 +6,7 @@ This project showcases a clean UI with multiple sections such as hero, services,
 ---
 
 ## 🚀 Live Demo
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+👉 superlative-dodol-eb04e5.netlify.app
 
 ---
 
